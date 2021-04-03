@@ -1,0 +1,42 @@
+body {
+    background-image: url("Avengers.jpg");
+}
+
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+    margin-top: 40px;
+}  
+
+#head_info {
+    width: 300px;
+    height: 100px;
+}
+
+h3 {
+    font-size: smaller;
+}
+h3
+{
+	display: inline-block;
+}
+span
+{
+	color: black;	
+}
+a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
